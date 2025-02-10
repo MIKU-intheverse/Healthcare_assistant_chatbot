@@ -8,7 +8,7 @@ Provides predefined responses for common healthcare-related queries.
 Uses the distilgpt2 model from Hugging Face for generating text-based responses.
 Built using Streamlit for an interactive user interface.
 
-#Tech Stack
+# Tech Stack
 
 Programming Language: Python 3.x
 Framework: Streamlit
