@@ -10,7 +10,7 @@ Built using Streamlit for an interactive user interface.
 
 # Tech Stack
 
-Programming Language: Python 3.x
-Framework: Streamlit
-Machine Learning Model: DistilGPT-2 (Hugging Face Transformers)
-Natural Language Processing: NLTK
+Programming Language: Python 3.x <br>
+Framework: Streamlit <br>
+Machine Learning Model: DistilGPT-2 (Hugging Face Transformers) <br>
+Natural Language Processing: NLTK <br>
