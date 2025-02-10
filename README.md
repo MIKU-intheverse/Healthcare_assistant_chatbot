@@ -4,9 +4,9 @@ This is a simple Healthcare Assistant Chatbot built using Streamlit and the Hugg
 
 # Features
 
-Provides predefined responses for common healthcare-related queries.
-Uses the distilgpt2 model from Hugging Face for generating text-based responses.
-Built using Streamlit for an interactive user interface.
+Provides predefined responses for common healthcare-related queries. <br>
+Uses the distilgpt2 model from Hugging Face for generating text-based responses. <br>
+Built using Streamlit for an interactive user interface. <br> 
 
 # Tech Stack
 
